@@ -1,0 +1,11 @@
+E:\Projekti Csarp\Projekat za Igora\Projects\Polovnjaci V1.0\Polovnjaci V1.0\bin\Debug\Polovnjaci V1.0.exe
+E:\Projekti Csarp\Projekat za Igora\Projects\Polovnjaci V1.0\Polovnjaci V1.0\bin\Debug\Polovnjaci V1.0.pdb
+E:\Projekti Csarp\Projekat za Igora\Projects\Polovnjaci V1.0\Polovnjaci V1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projekti Csarp\Projekat za Igora\Projects\Polovnjaci V1.0\Polovnjaci V1.0\obj\x86\Debug\Polovnjaci_V1._0.Properties.Resources.resources
+E:\Projekti Csarp\Projekat za Igora\Projects\Polovnjaci V1.0\Polovnjaci V1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projekti Csarp\Projekat za Igora\Projects\Polovnjaci V1.0\Polovnjaci V1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projekti Csarp\Projekat za Igora\Projects\Polovnjaci V1.0\Polovnjaci V1.0\obj\x86\Debug\Polovnjaci V1.0.exe
+E:\Projekti Csarp\Projekat za Igora\Projects\Polovnjaci V1.0\Polovnjaci V1.0\obj\x86\Debug\Polovnjaci V1.0.pdb
+E:\Projekti Csarp\Projekat za Igora\Projects\Polovnjaci V1.0\Polovnjaci V1.0\obj\x86\Debug\Polovnjaci_V1._0.MainForm.resources
+E:\Projekti Csarp\Projekat za Igora\Projects\Polovnjaci V1.0\Polovnjaci V1.0\obj\x86\Debug\Polovnjaci_V1._0.DodavanjeKategorije.resources
+E:\Projekti Csarp\Projekat za Igora\Projects\Polovnjaci V1.0\Polovnjaci V1.0\obj\x86\Debug\Polovnjaci_V1._0.DodavanjeKomponete.resources
